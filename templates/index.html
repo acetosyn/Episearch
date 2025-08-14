@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Episearch</title>
+  <!-- Tailwind CDN -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  <meta name="theme-color" content="#0D47A1">
+  <style>
+    :root { --teal:#0D47A1; --text:#4A4A4A; }
+  </style>
+</head>
+<body class="bg-gradient min-h-screen text-[var(--text)]">
+
+  <!-- HEADER -->
+  <header class="max-w-5xl mx-auto px-4 pt-8 pb-4 text-center">
+    <a href="{{ url_for('index') }}" class="logo-text block">Episearch</a>
+    <p id="typewriter" class="mt-2 text-sm sm:text-base text-gray-600"></p>
+    <p class="text-xs text-gray-500">
+      Powered by Epiconsult Clinic & Diagnostics Centre — Comprehensive diagnostics & healthcare for the whole family
+    </p>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-4 pb-20">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 items-start">
+      
+      <!-- LEFT: Search + Voice + Admin -->
+      <section class="space-y-3">
+        <label for="searchInput" class="sr-only">Search tests</label>
+        <input id="searchInput" type="text" placeholder="Type a test name…" 
+               class="w-full rounded-xl border border-gray-200 px-4 py-3 text-base outline-none focus:ring-2 focus:ring-[var(--teal)] focus:border-transparent" />
+        <button id="micBtn" class="inline-flex items-center gap-2 rounded-xl border border-gray-200 px-4 py-2 text-sm hover:bg-gray-50 active:scale-[.99]">
+          <span>🎤</span><span>Speak test</span>
+        </button>
+
+        <!-- Admin toggle -->
+        <button id="adminToggle" class="text-xs text-gray-500 underline">Toggle Admin</button>
+        <div id="adminPanel" class="hidden border border-gray-200 rounded-xl p-4 space-y-3">
+          <div class="text-sm font-medium">Admin (local only)</div>
+          <form id="adminForm" class="grid grid-cols-1 sm:grid-cols-3 gap-3">
+            <input id="a_test" class="rounded-lg border border-gray-200 px-3 py-2 text-sm" placeholder="Test name" required />
+            <input id="a_category" class="rounded-lg border border-gray-200 px-3 py-2 text-sm" placeholder="Category" required />
+            <input id="a_price" type="number" class="rounded-lg border border-gray-200 px-3 py-2 text-sm" placeholder="Price (₦)" />
+            <button class="sm:col-span-3 rounded-lg bg-[var(--teal)] text-white px-3 py-2 text-sm">Save</button>
+          </form>
+          <p class="text-xs text-gray-500">Edits are in-memory and persist only until refresh.</p>
+        </div>
+
+        <!-- All Tests toggle -->
+        <button id="allTestsBtn" class="mt-2 text-xs text-gray-500 underline">All Tests</button>
+      </section>
+
+      <!-- RIGHT: Search results -->
+      <aside id="resultsPanel" class="hidden rounded-2xl border border-gray-100 shadow-sm p-4 bg-white">
+        <div class="flex items-center justify-between mb-2">
+          <h2 class="text-sm font-semibold text-gray-800">Results</h2>
+          <div class="text-xs text-gray-500">Type ≥ 2 letters</div>
+        </div>
+        <div id="resultsContainer" class="space-y-3"></div>
+      </aside>
+    </div>
+
+    <!-- BOTTOM: All tests panel -->
+    <div id="allTestsPanel" class="hidden mt-8 border border-gray-200 rounded-xl bg-white shadow-inner p-4 max-h-[400px] overflow-y-auto">
+      <div class="flex justify-between items-center mb-3">
+        <h2 class="text-sm font-semibold text-gray-800">All Available Tests</h2>
+        <button id="clearAllTests" class="text-xs text-red-500 underline">Clear</button>
+      </div>
+      <div id="allTestsContainer" class="grid sm:grid-cols-2 gap-4"></div>
+    </div>
+
+  </main>
+
+  <!-- FOOTER -->
+  <footer>
+    Created by HT Acetosyn — © 2025
+  </footer>
+
+  <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+  <script src="{{ url_for('static', filename='js/typewriter.js') }}"></script>
+</body>
+</html>

@@ -1,0 +1,142 @@
+[
+  {
+    "category": "Endocrinology, Thyroid Function Test",
+    "test": "TSH - Thyroid Stimulating Hormone",
+    "price": 4500
+  },
+  {
+    "category": "Endocrinology, Thyroid Function Test",
+    "test": "Free T4 (Thyroxine)",
+    "price": 5200
+  },
+  {
+    "category": "Endocrinology, Thyroid Function Test",
+    "test": "Free T3 (Triiodothyronine)",
+    "price": 5200
+  },
+  {
+    "category": "Haematology General Test",
+    "test": "Full Blood Count (FBC)",
+    "price": 3000
+  },
+  {
+    "category": "Coagulation Test",
+    "test": "Factor VIII Functional",
+    "price": 9000
+  },
+  {
+    "category": "Coagulation Test",
+    "test": "Factor IX Functional",
+    "price": 9000
+  },
+  {
+    "category": "Coagulation Test",
+    "test": "Factor X Functional",
+    "price": 9000
+  },
+  {
+    "category": "Coagulation Test",
+    "test": "Factor XI Functional",
+    "price": 9000
+  },
+  {
+    "category": "Coagulation Test",
+    "test": "Factor XII Functional",
+    "price": 9000
+  },
+  {
+    "category": "Diabetes Test",
+    "test": "Fasting Blood Sugar (FBS)",
+    "price": 2500
+  },
+  {
+    "category": "Diabetes Test",
+    "test": "HbA1c (Glycated Hemoglobin)",
+    "price": 8000
+  },
+  {
+    "category": "Liver Pancreas Test",
+    "test": "ALT (SGPT)",
+    "price": 3500
+  },
+  {
+    "category": "Liver Pancreas Test",
+    "test": "AST (SGOT)",
+    "price": 3500
+  },
+  {
+    "category": "Renal/Electrolytes/Bone Test",
+    "test": "Urea",
+    "price": 2500
+  },
+  {
+    "category": "Renal/Electrolytes/Bone Test",
+    "test": "Creatinine",
+    "price": 3000
+  },
+  {
+    "category": "Lipids",
+    "test": "Total Cholesterol",
+    "price": 4000
+  },
+  {
+    "category": "Lipids",
+    "test": "HDL Cholesterol",
+    "price": 4000
+  },
+  {
+    "category": "Lipids",
+    "test": "LDL Cholesterol",
+    "price": 4500
+  },
+  {
+    "category": "Cardiac Tests",
+    "test": "Troponin I",
+    "price": 12000
+  },
+  {
+    "category": "Cardiac Tests",
+    "test": "CK-MB",
+    "price": 7000
+  },
+  {
+    "category": "Infective Test",
+    "test": "Malaria Parasite (RDT)",
+    "price": 2000
+  },
+  {
+    "category": "Hepatitis Test",
+    "test": "Hepatitis B Surface Antigen (HBsAg)",
+    "price": 6000
+  },
+  {
+    "category": "HIV Test",
+    "test": "HIV 1/2 Rapid Test",
+    "price": 4000
+  },
+  {
+    "category": "Serology Test",
+    "test": "Widal Test",
+    "price": 2500
+  },
+  {
+    "category": "Microbiology",
+    "test": "Urine M/C/S",
+    "price": 6500
+  },
+  {
+    "category": "Microbiology",
+    "test": "Stool M/C/S",
+    "price": 6500
+  },
+  {
+    "category": "Blood",
+    "test": "Blood Grouping",
+    "price": 3000
+  },
+  {
+    "category": "Blood",
+    "test": "Crossmatch",
+    "price": 8000
+  }
+]

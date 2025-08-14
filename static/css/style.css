@@ -1,0 +1,42 @@
+:root {
+  --teal: #0D47A1; /* Updated main color */
+  --text: #4A4A4A;
+}
+
+body {
+  color: var(--text);
+}
+
+.bg-gradient {
+  background: linear-gradient(to bottom right, #e6f7f9, #ffffff);
+}
+
+.logo-text {
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--teal);
+  letter-spacing: 1px;
+}
+
+.result-card:hover {
+  transform: translateY(-1px);
+}
+
+/* Scrollbar for All Tests panel */
+#allTestsPanel::-webkit-scrollbar {
+  width: 6px;
+}
+#allTestsPanel::-webkit-scrollbar-thumb {
+  background: var(--teal);
+  border-radius: 3px;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  font-size: 0.8rem;
+  color: #777;
+  padding: 1rem 0;
+  border-top: 1px solid #ddd;
+  margin-top: 2rem;
+}
