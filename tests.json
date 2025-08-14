@@ -2,627 +2,627 @@
   {
     "category": "Endocrinology, Thyroid Function Tests",
     "test": "Tga (Thyroglobulin Ab)",
-    "price": 69000
+    "price": null
   },
   {
     "category": "Endocrinology, Thyroid Function Tests",
     "test": "Anti Tpo (Tyroid Peroxidase)",
-    "price": 32000
+    "price": null
   },
   {
     "category": "Endocrinology, Thyroid Function Tests",
     "test": "Intact-Pth",
-    "price": 38000
+    "price": null
   },
   {
     "category": "Endocrinology, Thyroid Function Tests",
     "test": "Thyroid Function Test",
-    "price": 15000
+    "price": null
   },
   {
     "category": "Endocrinology, Thyroid Function Tests",
     "test": "Ft3",
-    "price": 8000
+    "price": null
   },
   {
     "category": "Endocrinology, Thyroid Function Tests",
     "test": "Ft4",
-    "price": 8000
+    "price": null
   },
   {
     "category": "Endocrinology, Thyroid Function Tests",
     "test": "T3",
-    "price": 8000
+    "price": null
   },
   {
     "category": "Endocrinology, Thyroid Function Tests",
     "test": "T4",
-    "price": 8000
+    "price": null
   },
   {
     "category": "Endocrinology, Thyroid Function Tests",
     "test": "Tsh",
-    "price": 8000
+    "price": null
   },
   {
     "category": "Endocrinology, Thyroid Function Tests",
     "test": "Tsh Receptor Antibody",
-    "price": 63500
+    "price": null
   },
   {
     "category": "Renal/Electrolytes/Bone Test",
     "test": "Electrolyte /Urea/Creatinine",
-    "price": 11500
+    "price": null
   },
   {
     "category": "Renal/Electrolytes/Bone Test",
     "test": "Electrolyte",
-    "price": 6500
+    "price": null
   },
   {
     "category": "Renal/Electrolytes/Bone Test",
     "test": "Potassium",
-    "price": 4000
+    "price": null
   },
   {
     "category": "Renal/Electrolytes/Bone Test",
     "test": "Urea",
-    "price": 4000
+    "price": null
   },
   {
     "category": "Renal/Electrolytes/Bone Test",
     "test": "Creatinine",
-    "price": 4000
+    "price": null
   },
   {
     "category": "Renal/Electrolytes/Bone Test",
     "test": "Creatinine Clearance 24 Hrs Urine",
-    "price": 10500
+    "price": null
   },
   {
     "category": "Renal/Electrolytes/Bone Test",
     "test": "Magnessium, 24 Hr Urine",
-    "price": 17500
+    "price": null
   },
   {
     "category": "Renal/Electrolytes/Bone Test",
     "test": "Magnessium",
-    "price": 10000
+    "price": null
   },
   {
     "category": "Renal/Electrolytes/Bone Test",
     "test": "Corrected Calcium",
-    "price": 7000
+    "price": null
   },
   {
     "category": "Renal/Electrolytes/Bone Test",
     "test": "Calcium (Tourniquet)",
-    "price": 6000
+    "price": null
   },
   {
     "category": "Renal/Electrolytes/Bone Test",
     "test": "Sodium",
-    "price": 4000
+    "price": null
   },
   {
     "category": "Renal/Electrolytes/Bone Test",
     "test": "Phosphate",
-    "price": 4500
+    "price": null
   },
   {
     "category": "Renal/Electrolytes/Bone Test",
     "test": "Calculus Analysis",
-    "price": 60000
+    "price": null
   },
   {
     "category": "Renal/Electrolytes/Bone Test",
     "test": "Chloride",
-    "price": 4500
+    "price": null
   },
   {
     "category": "Renal/Electrolytes/Bone Test",
     "test": "Ld-H",
-    "price": 15500
+    "price": null
   },
   {
     "category": "Renal/Electrolytes/Bone Test",
     "test": "Uric Acid",
-    "price": 4000
+    "price": null
   },
   {
     "category": "Renal/Electrolytes/Bone Test",
     "test": "Uric Acid Urine",
-    "price": 5200
+    "price": null
   },
   {
     "category": "Renal/Electrolytes/Bone Test",
     "test": "Albumin - Fluid",
-    "price": 7500
+    "price": null
   },
   {
     "category": "Renal/Electrolytes/Bone Test",
     "test": "Albumin - Serum",
-    "price": 3500
+    "price": null
   },
   {
     "category": "Liver/Pancreas Test",
     "test": "Liver Function Test",
-    "price": 11500
+    "price": null
   },
   {
     "category": "Liver/Pancreas Test",
     "test": "Protein Total - Serum",
-    "price": 4000
+    "price": null
   },
   {
     "category": "Liver/Pancreas Test",
     "test": "Protein - Urine",
-    "price": 17500
+    "price": null
   },
   {
     "category": "Liver/Pancreas Test",
     "test": "Bilirubin",
-    "price": 3500
+    "price": null
   },
   {
     "category": "Liver/Pancreas Test",
     "test": "Alp",
-    "price": 4500
+    "price": null
   },
   {
     "category": "Liver/Pancreas Test",
     "test": "Ggt",
-    "price": 4500
+    "price": null
   },
   {
     "category": "Liver/Pancreas Test",
     "test": "Ast",
-    "price": 4500
+    "price": null
   },
   {
     "category": "Liver/Pancreas Test",
     "test": "Bilirubin Direct/Conj.",
-    "price": 4500
+    "price": null
   },
   {
     "category": "Liver/Pancreas Test",
     "test": "Microalbumin (Urine/Quantitative)",
-    "price": 25000
+    "price": null
   },
   {
     "category": "Liver/Pancreas Test",
     "test": "Alt",
-    "price": 4500
+    "price": null
   },
   {
     "category": "Liver/Pancreas Test",
     "test": "Amylase",
-    "price": 12500
+    "price": null
   },
   {
     "category": "Liver/Pancreas Test",
     "test": "Lipase",
-    "price": 18000
+    "price": null
   },
   {
     "category": "Cardiac Tests",
     "test": "Myoglobin",
-    "price": 20000
+    "price": null
   },
   {
     "category": "Cardiac Tests",
     "test": "Ck-Mb Mass",
-    "price": 17000
+    "price": null
   },
   {
     "category": "Cardiac Tests",
     "test": "Troponin I",
-    "price": 17000
+    "price": null
   },
   {
     "category": "Cardiac Tests",
     "test": "Troponin T",
-    "price": 25000
+    "price": null
   },
   {
     "category": "Cardiac Tests",
     "test": "Nt-Probnp",
-    "price": 35000
+    "price": null
   },
   {
     "category": "Cardiac Tests",
     "test": "D-Dimer",
-    "price": 17000
+    "price": null
   },
   {
     "category": "Lipids",
     "test": "Lipid Profile",
-    "price": 11500
+    "price": null
   },
   {
     "category": "Lipids",
     "test": "Cholesterol",
-    "price": 4500
+    "price": null
   },
   {
     "category": "Lipids",
     "test": "Triglycerides",
-    "price": 8000
+    "price": null
   },
   {
     "category": "Lipids",
     "test": "Hdl",
-    "price": 5500
+    "price": null
   },
   {
     "category": "Lipids",
     "test": "Ldl",
-    "price": 5500
+    "price": null
   },
   {
     "category": "Diabetes Tests",
     "test": "Glucose Fasting",
-    "price": 4000
+    "price": null
   },
   {
     "category": "Diabetes Tests",
     "test": "Glucose Random",
-    "price": 4000
+    "price": null
   },
   {
     "category": "Diabetes Tests",
     "test": "2 Hours Post Prandial",
-    "price": 4500
+    "price": null
   },
   {
     "category": "Diabetes Tests",
     "test": "Ogtt (Oral Glucose Tolerance Test)",
-    "price": 7000
+    "price": null
   },
   {
     "category": "Diabetes Tests",
     "test": "Hba1C",
-    "price": 15000
+    "price": null
   },
   {
     "category": "Diabetes Tests",
     "test": "C-Peptide",
-    "price": 15000
+    "price": null
   },
   {
     "category": "Diabetes Tests",
     "test": "Insulin",
-    "price": 25000
+    "price": null
   },
   {
     "category": "Diabetes Tests",
     "test": "Diabetes Profile(Acr,2 Post,0Gtt,Hba1C,Fbs,Rbs)",
-    "price": 45000
+    "price": null
   },
   {
     "category": "Diabetes Tests",
     "test": "Dhea-S",
-    "price": 20000
+    "price": null
   },
   {
     "category": "Inflammatory/Immune Test",
     "test": "High Sensitivity Crp",
-    "price": 20000
+    "price": null
   },
   {
     "category": "Inflammatory/Immune Test",
     "test": "Complement C3",
-    "price": 22000
+    "price": null
   },
   {
     "category": "Inflammatory/Immune Test",
     "test": "Complement C4",
-    "price": 22000
+    "price": null
   },
   {
     "category": "Inflammatory/Immune Test",
     "test": "Rheumatoid Factor",
-    "price": 18000
+    "price": null
   },
   {
     "category": "Haematology General Tests",
     "test": "Fbc",
-    "price": 8000
+    "price": null
   },
   {
     "category": "Haematology General Tests",
     "test": "Cross Matching",
-    "price": 5000
+    "price": null
   },
   {
     "category": "Haematology General Tests",
     "test": "Reticulocytes",
-    "price": 9000
+    "price": null
   },
   {
     "category": "Haematology General Tests",
     "test": "25-Hydroxyl Vitamin D3",
-    "price": 30000
+    "price": null
   },
   {
     "category": "Haematology General Tests",
     "test": "Folic Acid Serum",
-    "price": 33000
+    "price": null
   },
   {
     "category": "Haematology General Tests",
     "test": "Iron Studies",
-    "price": 50000
+    "price": null
   },
   {
     "category": "Haematology General Tests",
     "test": "Ferritin",
-    "price": 18000
+    "price": null
   },
   {
     "category": "Haematology General Tests",
     "test": "Total Iron Binding Capacity (Tibc)",
-    "price": 18000
+    "price": null
   },
   {
     "category": "Haematology General Tests",
     "test": "Iron Level",
-    "price": 15000
+    "price": null
   },
   {
     "category": "Haematology General Tests",
     "test": "Vit B12",
-    "price": 23000
+    "price": null
   },
   {
     "category": "Haematology General Tests",
     "test": "Abo/Rh (Blood Grouping)",
-    "price": 3500
+    "price": null
   },
   {
     "category": "Haematology General Tests",
     "test": "Hb Genotype",
-    "price": 6000
+    "price": null
   },
   {
     "category": "Haematology General Tests",
     "test": "Peripheral Blood Film",
-    "price": 12000
+    "price": null
   },
   {
     "category": "Haematology General Tests",
     "test": "Coomb'S (Direct)",
-    "price": 10000
+    "price": null
   },
   {
     "category": "Haematology General Tests",
     "test": "Coomb'S(Indirect)",
-    "price": 11500
+    "price": null
   },
   {
     "category": "Haematology General Tests",
     "test": "Malaria Parasite",
-    "price": 4500
+    "price": null
   },
   {
     "category": "Haematology General Tests",
     "test": "Esr (Erythrocyte Sedementation Rate",
-    "price": 4000
+    "price": null
   },
   {
     "category": "Haematology General Tests",
     "test": "Le Cell Test",
-    "price": 45000
+    "price": null
   },
   {
     "category": "Haematology General Tests",
     "test": "G6Pd Quantitative",
-    "price": 27000
+    "price": null
   },
   {
     "category": "Haematology General Tests",
     "test": "Folate Serum",
-    "price": 33000
+    "price": null
   },
   {
     "category": "Haematology General Tests",
     "test": "Protein (Hb Variant) Electrophoresis(Hplc)",
-    "price": 25000
+    "price": null
   },
   {
     "category": "Coagulation Test",
     "test": "Ptt",
-    "price": 14000
+    "price": null
   },
   {
     "category": "Coagulation Test",
     "test": "Inr",
-    "price": 13000
+    "price": null
   },
   {
     "category": "Coagulation Test",
     "test": "Clothing Profile",
-    "price": 15000
+    "price": null
   },
   {
     "category": "Coagulation Test",
     "test": "Fibrinogen",
-    "price": 47000
+    "price": null
   },
   {
     "category": "Coagulation Test",
     "test": "Protein C",
-    "price": 130000
+    "price": null
   },
   {
     "category": "Coagulation Test",
     "test": "Protein S",
-    "price": 120000
+    "price": null
   },
   {
     "category": "Coagulation Test",
     "test": "Factor Ix",
-    "price": 125000
+    "price": null
   },
   {
     "category": "Coagulation Test",
     "test": "Factor Xi Functional",
-    "price": 125000
+    "price": null
   },
   {
     "category": "Coagulation Test",
     "test": "Factor Xii Functional",
-    "price": 125000
+    "price": null
   },
   {
     "category": "Coagulation Test",
     "test": "Factor X Functional",
-    "price": 125000
+    "price": null
   },
   {
     "category": "Coagulation Test",
     "test": "Factor Viii Functional",
-    "price": 125000
+    "price": null
   },
   {
     "category": "Coagulation Test",
     "test": "Factor V, Functional",
-    "price": 180000
+    "price": null
   },
   {
     "category": "Coagulation Test",
     "test": "Factor Vii Functional",
-    "price": 170000
+    "price": null
   },
   {
     "category": "Coagulation Test",
     "test": "Zinc",
-    "price": 56000
+    "price": null
   },
   {
     "category": "Coagulation Test",
     "test": "Von Willebrand Factor",
-    "price": 570000
+    "price": null
   },
   {
     "category": "Allergy Test",
     "test": "Total Ige",
-    "price": 30000
+    "price": null
   },
   {
     "category": "Allergy Test",
     "test": "Food Comprehensive Panel",
-    "price": 55000
+    "price": null
   },
   {
     "category": "Allergy Test",
     "test": "Comprehensive Adult Panel",
-    "price": 55000
+    "price": null
   },
   {
     "category": "Allergy Test",
     "test": "Comprehensive Infant Panel",
-    "price": 55000
+    "price": null
   },
   {
     "category": "Allergy Test",
     "test": "Comprehensive Respiratory Panel",
-    "price": 55000
+    "price": null
   },
   {
     "category": "Drugs Test",
     "test": "Drug Panel Test",
-    "price": 30000
+    "price": null
   },
   {
     "category": "Drugs Test",
     "test": "Tacrolimus",
-    "price": 45000
+    "price": null
   },
   {
     "category": "Endocrine-Reproductive Test",
     "test": "B-Hcg Quantitative",
-    "price": 12000
+    "price": null
   },
   {
     "category": "Endocrine-Reproductive Test",
     "test": "Prolactin Test (Rest 15 Mins)",
-    "price": 12000
+    "price": null
   },
   {
     "category": "Endocrine-Reproductive Test",
     "test": "Fsh",
-    "price": 12000
+    "price": null
   },
   {
     "category": "Endocrine-Reproductive Test",
     "test": "Lh",
-    "price": 12000
+    "price": null
   },
   {
     "category": "Endocrine-Reproductive Test",
     "test": "Oestradiol (E2)",
-    "price": 12000
+    "price": null
   },
   {
     "category": "Endocrine-Reproductive Test",
     "test": "Progesterone",
-    "price": 13000
+    "price": null
   },
   {
     "category": "Endocrine-Reproductive Test",
     "test": "Testosterone (Free)",
-    "price": 30000
+    "price": null
   },
   {
     "category": "Endocrine-Reproductive Test",
     "test": "Testosterone (Total)",
-    "price": 20000
+    "price": null
   },
   {
     "category": "Endocrine-Reproductive Test",
     "test": "Menopausal Screen(Lh,Fsh,E2)",
-    "price": 36000
+    "price": null
   },
   {
     "category": "Endocrine-Reproductive Test",
     "test": "Anti Mullerian Hormone",
-    "price": 26000
+    "price": null
   },
   {
     "category": "Endocrine-Reproductive Test",
     "test": "Sex Hormone Binding  Globulin",
-    "price": 135000
+    "price": null
   },
   {
     "category": "Endocrine-Reproductive Test",
     "test": "Pregnancy Test",
-    "price": 3500
+    "price": null
   },
   {
     "category": "Hypertension/Other Endocrine Test",
     "test": "Metanephrine (24 Hr Urine)",
-    "price": 130000
+    "price": null
   },
   {
     "category": "Hypertension/Other Endocrine Test",
     "test": "Cortisol (Serum)",
-    "price": 20000
+    "price": null
   },
   {
     "category": "Hypertension/Other Endocrine Test",
     "test": "Cortisol (24 Hr Urine)",
-    "price": 27000
+    "price": null
   },
   {
     "category": "Hypertension/Other Endocrine Test",
     "test": "Growth Hormone",
-    "price": 45000
+    "price": null
   },
   {
     "category": "Hypertension/Other Endocrine Test",
     "test": "Acth",
-    "price": 70000
+    "price": null
   },
   {
     "category": "Hypertension/Other Endocrine Test",
@@ -632,457 +632,457 @@
   {
     "category": "Hypertension/Other Endocrine Test",
     "test": "Renin/Aldosterone",
-    "price": 110000
+    "price": null
   },
   {
     "category": "Hypertension/Other Endocrine Test",
     "test": "Renin",
-    "price": 70000
+    "price": null
   },
   {
     "category": "Hypertension/Other Endocrine Test",
     "test": "Aldosterone",
-    "price": 40000
+    "price": null
   },
   {
     "category": "Tumor Marker Test",
     "test": "Psa (Total)",
-    "price": 15000
+    "price": null
   },
   {
     "category": "Tumor Marker Test",
     "test": "Psa (Free)",
-    "price": 20000
+    "price": null
   },
   {
     "category": "Tumor Marker Test",
     "test": "Cea (Git, Lung, Breast)",
-    "price": 25000
+    "price": null
   },
   {
     "category": "Tumor Marker Test",
     "test": "Ca 19-9 (Git, Pancreas)",
-    "price": 25000
+    "price": null
   },
   {
     "category": "Tumor Marker Test",
     "test": "Ca 125 (Ovary)",
-    "price": 25000
+    "price": null
   },
   {
     "category": "Tumor Marker Test",
     "test": "Ca 15-3 (Breast)",
-    "price": 25000
+    "price": null
   },
   {
     "category": "Tumor Marker Test",
     "test": "Ca 72-4 (Git)",
-    "price": 76000
+    "price": null
   },
   {
     "category": "Tumor Marker Test",
     "test": "Ca 27.29",
-    "price": 320000
+    "price": null
   },
   {
     "category": "Tumor Marker Test",
     "test": "Afp",
-    "price": 17000
+    "price": null
   },
   {
     "category": "Tumor Marker Test",
     "test": "B2 Microglobulin Serum",
-    "price": 30000
+    "price": null
   },
   {
     "category": "Tumor Marker Test",
     "test": "Occult Blood (Faeces)",
-    "price": 7000
+    "price": null
   },
   {
     "category": "Tumor Marker Test",
     "test": "Bence Jones (Random Urine)",
-    "price": 37000
+    "price": null
   },
   {
     "category": "Auto Immune Test",
     "test": "Anf/Anti Dna",
-    "price": 52000
+    "price": null
   },
   {
     "category": "Auto Immune Test",
     "test": "Anti Phospholipid (Cardiolipin,B2-Glyco,Lupus)",
-    "price": 155000
+    "price": null
   },
   {
     "category": "Auto Immune Test",
     "test": "Cardiolipin Igm",
-    "price": 50000
+    "price": null
   },
   {
     "category": "Auto Immune Test",
     "test": "Cardiolipin Igg",
-    "price": 50000
+    "price": null
   },
   {
     "category": "Auto Immune Test",
     "test": "Anti-Ccp Antibody",
-    "price": 30000
+    "price": null
   },
   {
     "category": "Auto Immune Test",
     "test": "B2 Glycoprotein Iga",
-    "price": 62000
+    "price": null
   },
   {
     "category": "Auto Immune Test",
     "test": "B2 Glycoprotein Igm",
-    "price": 62000
+    "price": null
   },
   {
     "category": "Auto Immune Test",
     "test": "B2 Glycoprotein Igg",
-    "price": 62000
+    "price": null
   },
   {
     "category": "Auto Immune Test",
     "test": "Lupus Anticoagulant",
-    "price": 64000
+    "price": null
   },
   {
     "category": "Auto Immune Test",
     "test": "Anca",
-    "price": 93000
+    "price": null
   },
   {
     "category": "Auto Immune Test",
     "test": "Anti Hcv",
-    "price": 30000
+    "price": null
   },
   {
     "category": "Auto Immune Test",
     "test": "Anti Hbs",
-    "price": 30000
+    "price": null
   },
   {
     "category": "Auto Immune Test",
     "test": "Immunoglobulin (Igg)",
-    "price": 27000
+    "price": null
   },
   {
     "category": "Auto Immune Test",
     "test": "Immunoglobulin (Iga)",
-    "price": 27000
+    "price": null
   },
   {
     "category": "Auto Immune Test",
     "test": "Immunoglobulin (Igm)",
-    "price": 27000
+    "price": null
   },
   {
     "category": "Auto Immune Test",
     "test": "Immunoglobulin (Ige)",
-    "price": 30000
+    "price": null
   },
   {
     "category": "Ena (Quantitative Profile)",
     "test": "Ana",
-    "price": 30000
+    "price": null
   },
   {
     "category": "Ena (Quantitative Profile)",
     "test": "Anti Ds Dna",
-    "price": 32000
+    "price": null
   },
   {
     "category": "Infectives Test",
     "test": "Asot",
-    "price": 33000
+    "price": null
   },
   {
     "category": "Infectives Test",
     "test": "Cmv 1Gg/Igm",
-    "price": 52000
+    "price": null
   },
   {
     "category": "Infectives Test",
     "test": "Rubella Igm/Igg",
-    "price": 52000
+    "price": null
   },
   {
     "category": "Infectives Test",
     "test": "Toxoplasma Igg, Igm",
-    "price": 52000
+    "price": null
   },
   {
     "category": "Infectives Test",
     "test": "Human Papilloma Virus",
-    "price": 50000
+    "price": null
   },
   {
     "category": "Infectives Test",
     "test": "Tpha (Syphilis)",
-    "price": 33000
+    "price": null
   },
   {
     "category": "Infectives Test",
     "test": "Vdrl Strip",
-    "price": 5000
+    "price": null
   },
   {
     "category": "Infectives Test",
     "test": "Chlamydia  Pcr",
-    "price": 20000
+    "price": null
   },
   {
     "category": "Infectives Test",
     "test": "Chlamydia  Screening",
-    "price": 15000
+    "price": null
   },
   {
     "category": "Infectives Test",
     "test": "Herpes Simplex 1/2 Igg",
-    "price": 11000
+    "price": null
   },
   {
     "category": "Infectives Test",
     "test": "Herpes Simplex 1/2 Igm",
-    "price": 11000
+    "price": null
   },
   {
     "category": "Infectives Test",
     "test": "Herpes Simplex 2 Igg",
-    "price": 11000
+    "price": null
   },
   {
     "category": "Infectives Test",
     "test": "H.Pylori Stool Antigen",
-    "price": 20000
+    "price": null
   },
   {
     "category": "Infectives Test",
     "test": "H.Pylori Strip Test",
-    "price": 70000
+    "price": null
   },
   {
     "category": "Infectives Test",
     "test": "Widal",
-    "price": 4000
+    "price": null
   },
   {
     "category": "Infectives Test",
     "test": "Mumps  Igg/Igm",
-    "price": 52000
+    "price": null
   },
   {
     "category": "Infectives Test",
     "test": "Measles Igg/Igm",
-    "price": 52000
+    "price": null
   },
   {
     "category": "Infectives Test",
     "test": "Brucella Igg/Igm",
-    "price": 52000
+    "price": null
   },
   {
     "category": "Infectives Test",
     "test": "Varicella Zooster Igg/Igm",
-    "price": 52000
+    "price": null
   },
   {
     "category": "Infectives Test",
     "test": "Torch Screen Panel",
-    "price": 137000
+    "price": null
   },
   {
     "category": "Infectives Test",
     "test": "Gene Xpert",
-    "price": 20000
+    "price": null
   },
   {
     "category": "Infectives Test",
     "test": "Neisseria Gonorrhoerea  Pcr",
-    "price": 25000
+    "price": null
   },
   {
     "category": "Infectives Test",
     "test": "Neisseria Gonorrhoerea  Screening",
-    "price": 15000
+    "price": null
   },
   {
     "category": "Infectives Test",
     "test": "Tb Quateferone",
-    "price": 110000
+    "price": null
   },
   {
     "category": "Microbiology",
     "test": "Urinalysis",
-    "price": 4000
+    "price": null
   },
   {
     "category": "Microbiology",
     "test": "Urine Microscopy",
-    "price": 3000
+    "price": null
   },
   {
     "category": "Microbiology",
     "test": "Urine Mcs",
-    "price": 11500
+    "price": null
   },
   {
     "category": "Microbiology",
     "test": "Stool Microscopy",
-    "price": 8000
+    "price": null
   },
   {
     "category": "Microbiology",
     "test": "Stool Mcs",
-    "price": 11500
+    "price": null
   },
   {
     "category": "Microbiology",
     "test": "Swab Microscopy",
-    "price": 6000
+    "price": null
   },
   {
     "category": "Microbiology",
     "test": "Wound Swab Mcs",
-    "price": 11500
+    "price": null
   },
   {
     "category": "Microbiology",
     "test": "Csf Cell Count + Microscopy",
-    "price": 9500
+    "price": null
   },
   {
     "category": "Microbiology",
     "test": "Csf Mcs",
-    "price": 15000
+    "price": null
   },
   {
     "category": "Microbiology",
     "test": "Blood Culture Test",
-    "price": 25000
+    "price": null
   },
   {
     "category": "Microbiology",
     "test": "Fungal Microscopy",
-    "price": 7500
+    "price": null
   },
   {
     "category": "Microbiology",
     "test": "Aspirate Mcs",
-    "price": 11500
+    "price": null
   },
   {
     "category": "Microbiology",
     "test": "Hvs Mcs",
-    "price": 11500
+    "price": null
   },
   {
     "category": "Microbiology",
     "test": "Endo Cervical Swab Mcs",
-    "price": 11500
+    "price": null
   },
   {
     "category": "Microbiology",
     "test": "Semen Analysis",
-    "price": 8500
+    "price": null
   },
   {
     "category": "Microbiology",
     "test": "Semen Culture & Sensitivity",
-    "price": 11500
+    "price": null
   },
   {
     "category": "Microbiology",
     "test": "Urethral Swab Mcs",
-    "price": 11500
+    "price": null
   },
   {
     "category": "Microbiology",
     "test": "Tb Serology",
-    "price": 6000
+    "price": null
   },
   {
     "category": "Microbiology",
     "test": "Microfilaria",
-    "price": 6000
+    "price": null
   },
   {
     "category": "Microbiology",
     "test": "Throat Swab Mcs",
-    "price": 11500
+    "price": null
   },
   {
     "category": "Microbiology",
     "test": "Ear Swab Mcs",
-    "price": 11500
+    "price": null
   },
   {
     "category": "Microbiology",
     "test": "Sputum Microscopy",
-    "price": 8000
+    "price": null
   },
   {
     "category": "Microbiology",
     "test": "Sputum Mcs",
-    "price": 12000
+    "price": null
   },
   {
     "category": "Microbiology",
     "test": "Eye Swab Mcs",
-    "price": 11500
+    "price": null
   },
   {
     "category": "Microbiology",
     "test": "Fungal Scrapping",
-    "price": 9000
+    "price": null
   },
   {
     "category": "Microbiology",
     "test": "Mantoux Test",
-    "price": 10000
+    "price": null
   },
   {
     "category": "Microbiology",
     "test": "Nasal Swab Mcs",
-    "price": 11500
+    "price": null
   },
   {
     "category": "Microbiology",
     "test": "Anti-Sperm Antibody",
-    "price": 28000
+    "price": null
   },
   {
     "category": "Cytology",
     "test": "Urine Cytology",
-    "price": 17000
+    "price": null
   },
   {
     "category": "Cytology",
     "test": "Sputum Cytology",
-    "price": 27000
+    "price": null
   },
   {
     "category": "Cytology",
     "test": "Ascitic Fluid",
-    "price": 37000
+    "price": null
   },
   {
     "category": "Cytology",
     "test": "Pleural Fluid",
-    "price": 24000
+    "price": null
   },
   {
     "category": "Cytology",
     "test": "Pap Smear Slide",
-    "price": 12000
+    "price": null
   },
   {
     "category": "Cytology",
     "test": "Pap Smear Liquid Base",
-    "price": 20000
+    "price": null
   },
   {
     "category": "Cytology",
@@ -1092,17 +1092,17 @@
   {
     "category": "Cytology",
     "test": "Fine Needle Aspirate(Fnac)",
-    "price": 65000
+    "price": null
   },
   {
     "category": "Fnac Slide Only",
     "test": "Histology  (Big Sample)",
-    "price": 20000
+    "price": null
   },
   {
     "category": "Fnac Slide Only",
     "test": "Histology (Small Sample)",
-    "price": 18000
+    "price": null
   },
   {
     "category": "Fnac Slide Only",
@@ -1132,32 +1132,32 @@
   {
     "category": "Hepatitis Test",
     "test": "Hep A  Screening",
-    "price": 7000
+    "price": null
   },
   {
     "category": "Hepatitis Test",
     "test": "Hep Bsag  Surface Antibody",
-    "price": 30000
+    "price": null
   },
   {
     "category": "Hepatitis Test",
     "test": "Hbeag/Hbeab",
-    "price": 30000
+    "price": null
   },
   {
     "category": "Hepatitis Test",
     "test": "Hbcab(Total)",
-    "price": 30000
+    "price": null
   },
   {
     "category": "Hepatitis Test",
     "test": "Hbcab (Igm)",
-    "price": 30000
+    "price": null
   },
   {
     "category": "Hepatitis Test",
     "test": "Hbsag (Quantitative)",
-    "price": 35000
+    "price": null
   },
   {
     "category": "Hepatitis Test",
@@ -1177,37 +1177,37 @@
   {
     "category": "Hepatitis Test",
     "test": "Hep B Dna Viral Load",
-    "price": 35000
+    "price": null
   },
   {
     "category": "Hepatitis Test",
     "test": "Hep C Rna Viral Load",
-    "price": 37000
+    "price": null
   },
   {
     "category": "Hepatitis Test",
     "test": "Hep B Virus (Hbv) Rna Genoype",
-    "price": 237000
+    "price": null
   },
   {
     "category": "Hepatitis Test",
     "test": "Hep C Virus (Hcv) Rna Genotype",
-    "price": 210000
+    "price": null
   },
   {
     "category": "Hiv Tests",
     "test": "P24 Antigen",
-    "price": 27000
+    "price": null
   },
   {
     "category": "Hiv Tests",
     "test": "Cd4",
-    "price": 27000
+    "price": null
   },
   {
     "category": "Hiv Tests",
     "test": "Hiv Viral Load",
-    "price": 27000
+    "price": null
   },
   {
     "category": "Hiv Tests",
@@ -1217,76 +1217,76 @@
   {
     "category": "Elisa Test",
     "test": "Hcv",
-    "price": 7000
+    "price": null
   },
   {
     "category": "Elisa Test",
     "test": "Hbsag",
-    "price": 7000
+    "price": null
   },
   {
     "category": "Elisa Test",
     "test": "Hiv",
-    "price": 7500
+    "price": null
   },
   {
     "category": "Elisa Test",
     "test": "Vdrl",
-    "price": 7000
+    "price": null
   },
   {
     "category": "Serology",
     "test": "Hep B Screening Strip",
-    "price": 3000
+    "price": null
   },
   {
     "category": "Serology",
     "test": "Hep C Screening Strip",
-    "price": 4000
+    "price": null
   },
   {
     "category": "Serology",
     "test": "Hiv Strip",
-    "price": 3000
+    "price": null
   },
   {
     "category": "Serology",
     "test": "Vdrl Strip",
-    "price": 4000
+    "price": null
   },
   {
     "category": "Serology",
     "test": "Tb Serology",
-    "price": 5000
+    "price": null
   },
   {
     "category": "Blood",
     "test": "Platelet Concentrate (A Bag)",
-    "price": 500000
+    "price": null
   },
   {
     "category": "Blood",
     "test": "Platelet Concentrate (Two Bags)",
-    "price": 800000
+    "price": null
   },
   {
     "category": "Blood",
     "test": "Whole Blood  Positive",
-    "price": 16000
+    "price": null
   },
   {
     "category": "Blood",
     "test": "Whole Blood  Negative",
-    "price": 25000
+    "price": null
   },
   {
     "category": "Blood",
     "test": "Fresh Frozon Plasma",
-    "price": 25000
+    "price": null
   },
   {
     "category": "Blood",
     "test": "Pletelet Rich Plasma",
-    "price": 40000
+    "price": null
   }
 ]
