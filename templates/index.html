@@ -4,25 +4,29 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Episearch</title>
-  <!-- Tailwind CDN -->
+
+  <!-- Tailwind CSS (CDN) -->
   <script src="https://cdn.tailwindcss.com"></script>
+
+  <!-- Custom styles -->
   <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+
+  <!-- Browser theme color -->
   <meta name="theme-color" content="#0D47A1">
-  <style>
-    :root { --teal:#0D47A1; --text:#4A4A4A; }
-  </style>
 </head>
 <body class="bg-gradient min-h-screen text-[var(--text)]">
 
-  <!-- HEADER -->
-  <header class="max-w-5xl mx-auto px-4 pt-8 pb-4 text-center">
-    <a href="{{ url_for('index') }}" class="logo-text block">Episearch</a>
-    <p id="typewriter" class="mt-2 text-sm sm:text-base text-gray-600"></p>
-    <p class="text-xs text-gray-500">
-      Powered by Epiconsult Clinic & Diagnostics Centre — Comprehensive diagnostics & healthcare for the whole family
-    </p>
-  </header>
+<header class="max-w-5xl mx-auto px-4 pt-8 pb-4 text-center">
+  <a href="{{ url_for('index') }}" class="logo-text block">Episearch</a>
+  <p class="powered-by">
+    Powered by Epiconsult Clinic & Diagnostics Centre — Comprehensive diagnostics & healthcare for the whole family
+  </p>
+  <p id="typewriter" class="mt-2 text-sm sm:text-base text-gray-600"></p>
+</header>
 
+
+
+  <!-- MAIN CONTENT -->
   <main class="max-w-5xl mx-auto px-4 pb-20">
     <div class="grid grid-cols-1 md:grid-cols-2 gap-6 items-start">
       
@@ -78,6 +82,7 @@
     Created by HT Acetosyn — © 2025
   </footer>
 
+  <!-- Scripts -->
   <script src="{{ url_for('static', filename='js/app.js') }}"></script>
   <script src="{{ url_for('static', filename='js/typewriter.js') }}"></script>
 </body>
