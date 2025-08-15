@@ -41,16 +41,16 @@ header {
   font-style: italic;
   font-size: 0.9rem;
   font-family: 'Georgia', serif;
-  color: rgba(0, 0, 0, 0.55); /* Semi-transparent for elegance */
-  margin-top: 0.15rem; /* Very little space from logo */
-  margin-bottom: 0.5rem; /* Small gap before typewriter */
+  color: rgba(0, 0, 0, 0.55);
+  margin-top: 0.15rem;
+  margin-bottom: 0.5rem;
   max-width: 700px;
 }
 
 /* Typewriter text under tagline */
 #typewriter {
   display: block;
-  min-height: 1.5em; /* Prevents layout shift during typing */
+  min-height: 1.5em;
   color: #555;
 }
 
@@ -110,6 +110,7 @@ header {
   font-weight: 600;
   margin-bottom: 0.5rem;
   color: var(--teal);
+  text-transform: uppercase; /* TEST NAMES IN UPPERCASE */
 }
 
 .result-price {
@@ -117,7 +118,67 @@ header {
   color: #222;
 }
 
-/* Scrollbar for All Tests panel */
+/* Force uppercase for test names & categories in panels */
+#resultsContainer h3,
+#allTestsContainer h4,
+#resultsContainer .text-xs,
+#allTestsContainer p {
+  text-transform: uppercase;
+}
+
+/* All Categories Accordion Styles */
+.category-header {
+  font-size: 0.9rem;
+  font-weight: bold;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.6rem 0.75rem;
+  background: var(--teal);
+  color: var(--white);
+  cursor: pointer;
+  user-select: none;
+}
+
+.toggle-indicator {
+  font-size: 1rem;
+  font-weight: bold;
+  transition: transform 0.3s ease;
+}
+
+.category-content {
+  overflow: hidden;
+  max-height: 0;
+  transition: max-height 0.3s ease-in-out;
+  background: var(--light-bg);
+}
+
+.category-content.open {
+  /* Class for JS to add when expanded (optional if using inline maxHeight) */
+  max-height: 1000px; /* large enough to hold contents */
+}
+
+.category-content > div {
+  padding: 0.5rem 0.75rem;
+  border-bottom: 1px solid #ddd;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.category-content > div:last-child {
+  border-bottom: none;
+}
+
+.category-content span {
+  font-size: 0.85rem;
+  font-weight: bold;
+  color: var(--teal);
+}
+
+/* Scrollbar for All Tests/All Categories panel */
 #allTestsPanel {
   max-height: 400px;
   overflow-y: auto;
@@ -154,4 +215,12 @@ footer {
   .search-bar {
     flex-direction: column;
   }
+}
+
+.category-header .toggle-indicator {
+  transition: transform 0.3s ease;
+}
+
+.category-header.open .toggle-indicator {
+  transform: rotate(90deg);
 }
